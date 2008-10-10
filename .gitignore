@@ -2,3 +2,4 @@
 log/*
 tmp/*
 doc/status.txt
+config/database.yml
