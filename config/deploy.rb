@@ -14,9 +14,9 @@ set :deploy_via, :remote_cache
 set :keep_releases, 10
 set :use_sudo, false
 
-role :app, "graspbirdstail.com"
-role :web, "graspbirdstail.com"
-role :db,  "graspbirdstail.com", :primary => true
+role :app, "positiveperspectives.graspbirdstail.com"
+role :web, "positiveperspectives.graspbirdstail.com"
+role :db,  "positiveperspectives.graspbirdstail.com", :primary => true
 
 after "deploy:update_code", "deploy:symlink_shared"
 
