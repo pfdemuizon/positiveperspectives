@@ -1,0 +1,3 @@
+[submodule "vendor/extensions/database_form"]
+	path = vendor/extensions/database_form
+	url = git://github.com/zapnap/database_form.git
