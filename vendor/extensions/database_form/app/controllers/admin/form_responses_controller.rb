@@ -15,8 +15,20 @@ class Admin::FormResponsesController < ApplicationController
       conditions << "created_at <= '#{build_datetime_from_params(:end_time, params[:filter])}'" if params[:filter]['end_time(1i)']
       options[:conditions] = conditions.join(" AND ")
     end
+    #@form_responses = FormResponse.find(:all, options)
+    #render(:xml => @form_responses.to_xml(:root => "form-responses"))
+    
     @form_responses = FormResponse.find(:all, options)
-    render(:xml => @form_responses.to_xml(:root => "form-responses"))
+    if @form_responses.any?
+      csv_data = FasterCSV.generate do |csv|
+        csv << @form_responses.first.content.keys
+        @form_responses.each {|form_response| csv << form_response.content.values}
+      end
+      send_data(csv_data, :type => 'text/csv; charset=utf-8; header=present', :filename => "mailing_list.csv")
+    else
+      flash[:notice] = "No data found in selection"
+      redirect_to :action => 'index'
+    end
   end
 
   protected
