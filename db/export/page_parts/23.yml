@@ -1,0 +1,14 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: quote
+  filter_id: ""
+  page_id: "14"
+  id: "23"
+  content: |
+    <div id="quote">
+      &ldquo;One day you finally knew what you had to do and began...&ldquo;<br/>
+      <div style="margin:0 95px">&#150;Mary Oliver, <strong>The Journey</strong></div>
+    </div>
+
+attributes_cache: {}
+

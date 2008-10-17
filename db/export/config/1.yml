@@ -1,0 +1,7 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "1"
+  value: Radiant CMS
+  key: admin.title
+attributes_cache: {}
+

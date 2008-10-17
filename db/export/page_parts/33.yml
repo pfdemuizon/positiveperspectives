@@ -1,0 +1,11 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: image
+  filter_id: ""
+  page_id: "14"
+  id: "33"
+  content: |
+    <img src="/images/forest_image.jpg" alt="Redwood forest">
+
+attributes_cache: {}
+

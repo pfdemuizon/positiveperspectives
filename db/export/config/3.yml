@@ -1,0 +1,7 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "3"
+  value: body, extended
+  key: defaults.page.parts
+attributes_cache: {}
+

@@ -1,0 +1,13 @@
+--- !ruby/object:FormResponse 
+attributes: 
+  name: mailing_list
+  id: "2"
+  content: |
+    --- 
+    name: Patrice de Muizon
+    primary_interest: fun!
+    email: pfdemuizon@gmail.com
+
+  created_at: 2008-10-17 05:48:17
+attributes_cache: {}
+

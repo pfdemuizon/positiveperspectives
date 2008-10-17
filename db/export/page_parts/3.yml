@@ -1,0 +1,31 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: 
+  page_id: "3"
+  id: "3"
+  content: |
+    <?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <channel>
+        <title>Article RSS Feed</title>
+        <link>http://your-web-site.com<r:url /></link>
+        <language>en-us</language>
+        <ttl>40</ttl>
+        <description>The main blog feed for my Web site.</description>
+        <r:find url="/articles/">
+        <r:children:each limit="10" order="desc">
+            <item>
+              <title><r:title /></title>
+              <description><r:escape_html><r:content /></r:escape_html></description>
+              <pubDate><r:rfc1123_date /></pubDate>
+              <guid>http://your-web-site.com<r:url /></guid>
+              <link>http://your-web-site.com<r:url /></link>
+            </item>
+        </r:children:each>
+        </r:find>
+      </channel>
+    </rss>
+
+attributes_cache: {}
+

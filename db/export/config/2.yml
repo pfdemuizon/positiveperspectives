@@ -1,0 +1,7 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "2"
+  value: Publishing for Small Teams
+  key: admin.subtitle
+attributes_cache: {}
+

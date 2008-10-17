@@ -1,0 +1,160 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: ""
+  page_id: "11"
+  id: "14"
+  content: |
+    /*** formating ***/
+    
+    body {
+      text-align:       center;
+      font-family:      "arial";
+      background-color: #F5DEB4;
+    }
+    
+    #header {
+      text-align:   center;
+      height:       150px;
+      margin-top:   40px;
+    }
+    
+    #container {
+      text-align: left;
+    }
+    
+    #menu {
+      color:        #AD7011;
+      margin:       40px 18px;
+      text-align:   left;
+      font-size:    89%;
+      line-height:  80%;
+      letter-spacing: +0.01cm;
+      font-family:    "times new roman";
+      font-weight:    bold}
+    
+    a:link {
+      color:  #AD7011;
+      text-decoration:  none;
+    }
+    
+    a:visited {
+      color:  #AD7011;
+      text-decoration:  none;
+    }
+    
+    a:active {
+      color:  #710302;
+    }
+    
+    a:hover {
+      color:  #710302;
+      text-decoration:  underline;
+    }
+    
+    #contact  {
+      color:  #AD7011;
+      font-family:  "times new roman";
+      font-weight:  800;
+      font-size:    87%;
+      line-height:  150%;
+      margin-left:  -20px;
+    }
+    
+    #content_header {
+      color:    #710302;
+      margin:   0 0 25px 0;
+      text-align: center;
+      line-height:  125%;
+      font-size:    120%;
+      font-family:  "bell mt";
+      font-weight:  bold;
+    }
+    
+    #quote {
+      color:        #710302;
+      margin:       0 0 20px 0;
+      font-size:    107%;
+      line-height:  110%;
+      text-align:   center;
+      font-weight:  normal;
+      font-family:  "times new roman";
+      font-style:   italic;
+    }
+    
+    #name {
+      color:  #AD7011;
+      font-family:  arial;
+      font-size:  94%
+    }
+    
+    h1 {
+      color:        #AD7011;
+      font-size:    155%; 
+      font-style:   italic;
+      font-family:  "times new roman";
+      margin:       10px 0;
+    }
+    
+    h2 {
+      margin:       25px 0 10px 0;
+      font-size:    110%;
+      line-height:  92%;
+    }
+    
+    #content {
+      font-size:    87%;
+      line-height:  140%;
+    }
+    
+    #footer {
+      font-size:  70%;
+    }
+    
+    /* margin: top,right,bottom,left; */
+    /* margin: vertical, horizontal; */
+    
+    /*** layout ***/
+    #container {
+      width:  740px;
+      margin: 45px 60px;
+    }
+    
+    #wrapper {
+      float:  left;
+      width:  100%;
+    }
+    
+    #content {
+      margin-left:  260px;
+    }
+    
+    #navigation { 
+      float:    left;
+      width:    260px;
+      margin-left:-740px}
+    
+    #footer {
+      clear:    both;
+      width:    100%;
+      padding:  90px 0 0 0;
+      position: relative;
+    }
+    
+    #copyright {
+      float:  left;
+    }
+    
+    #designed_by {
+      display:  inline;
+      position: absolute;
+      top:      90px;
+      right:    0;
+    }
+    
+    
+    
+    
+
+attributes_cache: {}
+

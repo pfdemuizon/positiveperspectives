@@ -1,0 +1,13 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: quote
+  filter_id: Textile
+  page_id: "13"
+  id: "20"
+  content: |-
+    <div id="quote">
+    &ldquo;The only real voyage of discovery exists, not in seeing new<br/>
+    landscapes, but having new eyes.&ldquo; &#150;Marcel Proust
+    </div>
+attributes_cache: {}
+

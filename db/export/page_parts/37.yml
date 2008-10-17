@@ -1,0 +1,9 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: ""
+  page_id: "18"
+  id: "37"
+  content: "          <r:database:form name=\"mailing_list\" redirect_to=\"/\">\r\n            Name:<br/>\r\n            <r:database:text name=\"name\"/><br/>\r\n            Email:<br/>\r\n            <r:database:text name=\"email\"/><br/>\r\n            Primary Interest:<br/>\r\n            <r:database:select name=\"primary_interest\">\r\n              <r:database:option name=\"work\"/>\r\n              <r:database:option name=\"fun!\"/>\r\n            </r:database:select><br/>\r\n            <r:database:submit value=\"Submit\"/>\r\n            <r:database:reset value=\"Reset\"/>\r\n          </r:database:form>\r\n"
+attributes_cache: {}
+

@@ -1,0 +1,17 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: Textile
+  page_id: "1"
+  id: "1"
+  content: |
+    h1. Welcome <hr size=1/>
+    
+    One of the most challenging aspects of living in modern society is handling stress and anxiety. The negative effects of stress can be damaging to both body and mind. Stress can hinder our playful and creative nature, limit our productivity, and create serious health problems.
+    
+    I provide a spectrum of services that enables individuals to restore balance and create fulfillment in their lives.
+    
+    Through a unique combination of *"Hypnotherapy":/process*, *"Coaching":process#coaching*, and a variety of *"Energy Therapy":process#energy_therapy* techniques, I teach individuals how to control their stress, thereby promoting inner and outer harmony.
+
+attributes_cache: {}
+

@@ -1,0 +1,35 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: Textile
+  page_id: "15"
+  id: "24"
+  content: |-
+    h1. Products <hr size=1 noshade/>
+    
+    I offer the following audio CDs to further your learning process at your own pace.
+    
+    h2. _In English:_
+    
+    <img style="float:left;margin: 0 15px 0 0" border=1 src="/images/english_infinite.jpg">
+    
+    *Infinite Source of Energy:*<br/>
+    Learn to connect with the Infinite Source of Energy, available to you anytime. Connecting with this Source will empower you to move through the experiences of your life with ease.
+    
+    <h2 style="clear:left;margin:50px 0 10px 0">_En Fran&ccedil;ais:_</h2>
+    <img style="float:left;margin: 0 15px 0 0" border=1 src="/images/french_autogenic.jpg">
+    
+    *Training Autog&egrave;ne:*<br/>
+    M&eacute;thode de relaxation visant &agrave; &eacute;liminer le stress et 
+    les sympt&ocirc;mes qui en d&eacute;coulent. Cette technique va vous apprendre &agrave; r&eacute;guler 
+    votre corps physique et mental ainsi que contr&ocirc;ler vos &eacute;tats int&eacute;rieurs.</p> 
+    
+    <div style="clear:left;margin:50px 0 10px 0">
+    <img style="clear:left;float:left;margin:-5px 15px 0 0" border=1 src="/images/french_infinite.jpg">
+    
+    *In&eacute;puisable Source d'Energie:*<br/>
+    Apprenez &agrave; vous brancher &agrave; cette source d'&eacute;nergie pour r&eacute;tablir un niveau d'&eacute;nergie optimum et ainsi vous donner la force de 
+    parcourir le chemin de votre vie plus facilement.</p>
+    </div>
+attributes_cache: {}
+

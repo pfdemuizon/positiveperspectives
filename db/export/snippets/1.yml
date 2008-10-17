@@ -1,0 +1,19 @@
+--- !ruby/object:Snippet 
+attributes: 
+  name: header
+  updated_at: 2008-10-10 20:07:46
+  updated_by_id: 
+  filter_id: 
+  lock_version: "0"
+  created_by_id: "1"
+  id: "1"
+  content: |
+    <div id="header">
+      <div id="site-title"><r:if_url matches="^/$">Your Blog Name</r:if_url><r:unless_url matches="^/$"><a href="/">Your Blog Name</a></r:unless_url></div>
+      <div id="site-subtitle">a really amusing tag-line here</div>
+    </div>
+    <hr class="hidden" />
+
+  created_at: 2008-10-10 20:07:46
+attributes_cache: {}
+

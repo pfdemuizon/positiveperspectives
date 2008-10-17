@@ -1,0 +1,7 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "4"
+  value: draft
+  key: defaults.page.status
+attributes_cache: {}
+

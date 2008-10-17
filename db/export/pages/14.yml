@@ -1,0 +1,21 @@
+--- !ruby/object:Page 
+attributes: 
+  virtual: "0"
+  class_name: Page
+  slug: services
+  updated_at: 2008-10-10 21:46:41
+  updated_by_id: "1"
+  title: Services
+  breadcrumb: Services
+  lock_version: "6"
+  created_by_id: "1"
+  id: "14"
+  description: ""
+  published_at: 2008-10-10 14:01:12
+  status_id: "100"
+  layout_id: 
+  parent_id: "1"
+  keywords: ""
+  created_at: 2008-10-10 21:01:02
+attributes_cache: {}
+

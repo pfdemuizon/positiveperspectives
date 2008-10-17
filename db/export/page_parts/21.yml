@@ -1,0 +1,30 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: Textile
+  page_id: "14"
+  id: "21"
+  content: |
+    h1. Services <hr size=1 noshade/>
+    
+    h2. Individual Sessions:
+    
+    Individual sessions are personalized to support each client&#39;s needs and are offered in English or in French. They take place at my office in Palo Alto or Fremont, CA. Phone sessions are also a great option 
+    and are just as effective as live sessions. In case you need more support between sessions, I offer *free email support*.
+    <table border cellspacing=1 width="75%" style="margin:10px 0 10px 0;">
+      <tr><td align="center" width="60%">60-minute session</td><td align="center">$108&nbsp; &nbsp; &nbsp; &nbsp; </td></tr>
+    </table>
+    Because change happens over time and to encourage your
+    continued growth, I offer discounted, pre-paid packages:
+    <table border cellspacing=1 width="75%" style="margin:10px 0 2px 0;font-size:100%;line-height:155%" halign="center">
+      <tr><td align="center" width="60%">4 x 60-minute sessions</td><td align="center">$400 ($32 saving)</td></tr>
+      <tr><td align="center" width="60%">12 x 30-minute sessions*</td><td align="center">$600 ($48 saving)</td></tr>
+    </table>
+    <div style="font-size:90%;margin:0 0 20px 0"><em> &nbsp; &nbsp; *Only available by phone once a week.</em></div>
+    
+    h2. Classes and Workshops:
+    
+    I regularly offer classes and workshops in French and in English for Self-Development and Stress Management in Palo Alto and in Fremont, CA. Send me an "email":mailto:roseline@positiveperspectives.net if you would like to receive announcements about upcoming classes and workshops.
+
+attributes_cache: {}
+

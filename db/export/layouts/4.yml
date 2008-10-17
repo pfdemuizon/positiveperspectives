@@ -1,0 +1,84 @@
+--- !ruby/object:Layout 
+attributes: 
+  content_type: ""
+  name: "Normal "
+  updated_at: 2008-10-17 05:46:26
+  updated_by_id: "1"
+  lock_version: "14"
+  created_by_id: "1"
+  id: "4"
+  content: |
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <title>Positive Perspectives: Hypnotherapy and Coaching for Stress Management and Self Development</title>
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" type="text/css" href="/styles.css">
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta name="description" content="Positive Perspectives provides a unique combination
+          of Hypnotherapy, Coaching, and a variety of Energy Therapy techniques to help individuals 
+          learn to control their stress, thereby promoting inner and outer harmony.">
+        <meta name="keywords" content="Positive Perspectives, Roseline de Belleval, Roseline de Muizon,
+          Stress, Stress Management, Self Development, Anxiety, Hypnotherapy, Coaching, Reiki, EFT, 
+          Causal Therapy, Emotional Freedom Technique">
+      </head>
+      <body>
+        <div id="container">
+          <div id="wrapper">
+            <div id="content">
+              <div id="content_header">
+                <table width=100%>
+                  <tr><td><r:content part="image"/></td>
+                    <td align="center"><div id="name">ROSELINE DE BELLEVAL</div>
+                       &#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;<br/>
+                      Hypnotherapy &#150; Coaching<br/>
+                      for Stress Management<br/>
+                      and Self Development</td></tr>
+                </table>  
+              </div>
+              <r:content part="quote" />
+              <r:content />
+            </div> <!-- end content -->
+          </div> <!-- end wrapper -->
+          <div id="navigation">
+            <a href="index.html"><img src="images/pp_logo.jpg" border="0" alt="Positive Perspectives"></a>
+            <div id="menu">
+              <a href="/" title="Home"><img src="images/menu/menu_home.jpg" border="0"></a><br/><br/>
+              <a href="/process" title="Process"><img src="images/menu/menu_process.jpg" border="0"></a><br/><br/>
+              <a href="/services" title="Services"><img src="images/menu/menu_services.jpg" border="0"></a><br/><br/>
+              <a href="/products" title="Products"><img src="images/menu/menu_products.jpg" border="0"></a><br/><br/>
+              <a href="/about" title="About Roseline"><img src="images/menu/menu_about.jpg" border="0"></a><br/><br/>
+              <a href="/testimonials" title="Testimonials"><img src="images/menu/menu_testimonials.jpg" border="0"></a><br/><br/>
+       <!--
+            <div id="menu">
+              <a href="index.html" title="Home" style="color:#710302">> &nbsp;Home</a><br/>
+              &nbsp; &nbsp; <a href="process.html" title="Process">Process</a><br/>
+              &nbsp; &nbsp; <a href="services.html" title="Services">Services</a><br/>
+              &nbsp; &nbsp; <a href="products.html" title="Products">Products</a><br/>
+              &nbsp; &nbsp; <a href="about.html" title="About Roseline">About Roseline</a><br/>
+              &nbsp; &nbsp; <a href="testimonials.html" title="Testimonials">Testimonials</a><br/>
+        -->
+            </div> <!-- end menu -->
+            <div id="contact">
+              CONTACT :<br/>
+              <div style="margin-left:10px;">
+                510.659.1605<br/>
+                <a href=mailto:roseline@positiveperspectives.net>roseline@positiveperspectives.net</a>
+              </div>
+            </div> <!-- end contact -->
+          </div> <!--  end navigation -->
+          <div id="footer">
+            <div id="copyright">
+              Copyright &copy; 2007, Positive Perspectives.
+            </div>
+            <div id="designed_by">
+              Site designed by <a href="http://www.graspbirdstail.com" style="color:black">graspbirdstail.com</a>
+            </div> <!-- end designed_by -->
+          </div> <!-- end footer -->
+        </div> <!-- end container -->
+      </body>
+    </html>
+
+  created_at: 2008-10-10 20:13:04
+attributes_cache: {}
+

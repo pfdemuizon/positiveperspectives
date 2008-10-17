@@ -1,0 +1,14 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: quote
+  filter_id: ""
+  page_id: "1"
+  id: "18"
+  content: |
+    <div id="quote">
+      &ldquo;The journey of a thousand miles begins with one step.&ldquo;<br/>
+      <div style="margin:0 120px">&#150;Lao Tzu</div>
+    </div>
+
+attributes_cache: {}
+

@@ -1,0 +1,7 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "6"
+  value: "1209600"
+  key: session_timeout
+attributes_cache: {}
+

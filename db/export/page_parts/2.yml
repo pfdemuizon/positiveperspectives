@@ -1,0 +1,17 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: Textile
+  page_id: "2"
+  id: "2"
+  content: |
+    The file you were looking for could not be found.
+    
+    Attempted URL: @<r:attempted_url />@
+    
+    It is possible that you typed the URL incorrectly or that you clicked on a bad link.
+    
+    "<< Back to Home Page":/
+
+attributes_cache: {}
+

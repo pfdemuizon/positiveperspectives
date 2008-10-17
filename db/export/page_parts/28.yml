@@ -1,0 +1,20 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: Textile
+  page_id: "17"
+  id: "28"
+  content: |
+    h1. Testimonials <hr size=1 noshade/>
+    
+    "You have a positive outlook on all things. Your inner peace is an inspiration to me. You are willing to learn new ways to be at peace, be calm and take care of you as a person. Your ability to share this knowledge with others is a special gift.  Thank you."<br/> 
+    _&#150;Vikki, Fremont, CA_
+    
+    "I can't tell you how often I've been using your techniques lately. It helps calm the anxiety that flares up. It's working!! So thank you so much."<br/>
+    _&#150;Ann, Fremont, CA_
+    
+    "Roseline helped me tremendously to reconnect with my inner balance and guided me skillfully to let joy and self confidence flow back into my life. She is an excellent guide and hypnotherapist, knowing very well how to integrate all the different aspects of her multiple backgrounds and to adapt them to the needs of her clients. I really loved this healing experience with her!"<br/>
+    _&#150;Francoise, Palo Alto, CA_
+
+attributes_cache: {}
+

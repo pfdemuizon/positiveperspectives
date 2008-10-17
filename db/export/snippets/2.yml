@@ -1,0 +1,19 @@
+--- !ruby/object:Snippet 
+attributes: 
+  name: footer
+  updated_at: 2008-10-10 20:07:46
+  updated_by_id: 
+  filter_id: 
+  lock_version: "0"
+  created_by_id: "1"
+  id: "2"
+  content: |
+    <hr class="hidden" />
+    <div id="footer">
+      <p>Copyright &copy; <r:date format="%Y" />, Your Name Here. All rights reserved.<br />
+        This site is powered by <a href="http://radiantcms.org/">Radiant CMS</a>.</p>
+    </div>
+
+  created_at: 2008-10-10 20:07:46
+attributes_cache: {}
+

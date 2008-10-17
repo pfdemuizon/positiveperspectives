@@ -1,0 +1,14 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: quote
+  filter_id: Textile
+  page_id: "16"
+  id: "27"
+  content: |
+    <div id="quote">
+      &ldquo;You can make a difference in global harmony merely by<br />
+      happily living your dream.&ldquo;
+    </div>
+
+attributes_cache: {}
+

@@ -1,0 +1,7 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "5"
+  value: ""
+  key: defaults.page.filter
+attributes_cache: {}
+

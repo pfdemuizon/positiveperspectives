@@ -1,0 +1,13 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: quote
+  filter_id: ""
+  page_id: "17"
+  id: "29"
+  content: |-
+    <div id="quote">
+      &ldquo;I can't change the direction of the wind, but I can adjust my sails to
+      always reach my destination.&ldquo; &#150;Jimmy Dean
+    </div>
+attributes_cache: {}
+

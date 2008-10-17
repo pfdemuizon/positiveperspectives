@@ -1,0 +1,38 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: Textile
+  page_id: "16"
+  id: "26"
+  content: |
+    h1. About Roseline <hr size=1 noshade/>
+    
+    h2. Training
+    
+    h4. HCH Institute in Lafayette, CA
+    
+      * Clinical Hypnotherapy Training Course designed to ensure systemic
+        integration of Ericksonian Hypnotherapy, Neuro-Linguistic Programming
+        and many transpersonal modalities of healing through altered states
+        of consciousness
+      * Advanced Course in Past Life Regression and Spirit Releasement
+      * Advanced Course in Sandplay Process
+      * Energy Therapy including EFT (Emotional Freedom Technique), Causal Therapy, and Reiki
+      * Coaching for Helping Professionals
+    
+    h4. Other Training
+    
+      * Stress Management Professional Training (Stress Education Center)
+      * Advanced Training in Causal Therapy (R. Oblander)
+      * Master Teacher in the Usui Tradition of Natural Reiki Healing.
+      * Feng Shui Advanced Training in Black Hat Sect (Energetics in Business)
+      * Feng Shui for Business (Qi-Mag International Feng Shui)
+    
+    h2. Professional Membership
+    
+      * National Guild of Hypnotists
+      * Ancient Healing Arts Association
+      * Integrated Healing Art
+
+attributes_cache: {}
+

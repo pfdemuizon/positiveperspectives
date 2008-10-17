@@ -1,0 +1,9 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: image
+  filter_id: ""
+  page_id: "17"
+  id: "34"
+  content: <img src="/images/sailboat.jpg" alt="Bougainvillia flowers">
+attributes_cache: {}
+

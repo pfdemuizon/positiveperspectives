@@ -1,0 +1,14 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: quote
+  filter_id: ""
+  page_id: "15"
+  id: "25"
+  content: |
+    <div id="quote">&ldquo;Limitations live only in our minds. But if we
+       use our imaginations, <br/> our possibilities become limitless.&ldquo;
+        &#150;Jamie Paolinetti
+    </div>
+
+attributes_cache: {}
+

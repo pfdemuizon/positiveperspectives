@@ -1,0 +1,21 @@
+--- !ruby/object:Page 
+attributes: 
+  virtual: "0"
+  class_name: Page
+  slug: process
+  updated_at: 2008-10-10 21:45:59
+  updated_by_id: "1"
+  title: Process
+  breadcrumb: Process
+  lock_version: "11"
+  created_by_id: "1"
+  id: "13"
+  description: ""
+  published_at: 2008-10-10 13:50:51
+  status_id: "100"
+  layout_id: 
+  parent_id: "1"
+  keywords: ""
+  created_at: 2008-10-10 20:46:22
+attributes_cache: {}
+

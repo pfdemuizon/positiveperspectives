@@ -1,0 +1,8 @@
+--- !ruby/object:Radiant::ExtensionMeta 
+attributes: 
+  name: Database Form
+  schema_version: "1"
+  enabled: "1"
+  id: "1"
+attributes_cache: {}
+
